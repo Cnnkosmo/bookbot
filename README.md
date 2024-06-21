@@ -1,2 +1,2 @@
 # bookbot
-bookbot
+The bookbot project
